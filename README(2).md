@@ -32,8 +32,10 @@ To run the notebook successfully, you need the following dependencies installed:
 
 ## File Structure
 - `Python Project MAHFOUD Soukaina.ipynb` - Main Jupyter Notebook file.
-- `data/` - (Optional) Folder for datasets used in the project.
-- `results/` - (Optional) Folder for storing output results or generated reports.
+- ' data.json' - JSON file containing dataset.
+- 'json2.json' - Additional JSON file for extended data storage.
+- 'function.py' - Python script containing reusable function.
+  
 
 ## Contact
 For any queries or issues, please contact **Mahfoud Soukaina**.
